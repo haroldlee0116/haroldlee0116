@@ -5,5 +5,6 @@
 - 👯 I’m looking to collaborate on Model Predictive Control in Semi-active suspension system
 - 🤔 I’m looking for help with Tensor Techinnique in Nonlinear Volterra Identification
 - 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/zhehan-li-45a716198/
+- 📫 How to reach me: https://www.linkedin.com/in/harold-lee-45a716198/
+or Email: lizhehan2020@outlook.com
 - ⚡ Fun fact: I am good at cooking Asian dishes
