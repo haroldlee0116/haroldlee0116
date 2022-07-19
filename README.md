@@ -7,4 +7,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/harold-lee-45a716198/
 or Email: lizhehan2020@outlook.com
-- ⚡ Fun fact: I know you are reading this sentence.
+- ⚡ Fun fact: I already predicted that you will read this sentence.
